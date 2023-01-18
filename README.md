@@ -1,4 +1,5 @@
 # color_picker
+Choisir la couleur et ensuite son positionnement
 
 A new Flutter project.
 
